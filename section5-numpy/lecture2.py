@@ -40,6 +40,5 @@ bool_arr = arr > 5
 
 print(arr[bool_arr])
 # or as one liner:
-
 print(arr[arr > 5])
 
